@@ -16,6 +16,11 @@ VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
+    'decorator==4.4.2',
+    'docopt==0.6.2',
+    'python-dateutil==2.8.1',
+    'six==1.15.0',
+    'validators==0.18.2'
 ]
 
 # What packages are optional?
